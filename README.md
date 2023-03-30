@@ -1,2 +1,2 @@
-# dio-projeto01
-Entrega do Primeiro Projeto Prático
+# PROJETO 01
+Entrega do Primeiro Projeto Prático.
